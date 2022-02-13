@@ -1,0 +1,15 @@
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\Projeto.Series.exe
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\Projeto.Series.deps.json
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\Projeto.Series.runtimeconfig.json
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\Projeto.Series.dll
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\ref\Projeto.Series.dll
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\bin\Debug\net6.0\Projeto.Series.pdb
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.AssemblyInfoInputs.cache
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.AssemblyInfo.cs
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.dll
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\ref\Projeto.Series.dll
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.pdb
+C:\Users\maico\Desktop\teste\projeto\Projeto.Series\obj\Debug\net6.0\Projeto.Series.genruntimeconfig.cache
